@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MC_SVFastRefining", "MC_SVFastRefining\MC_SVFastRefining.csproj", "{FA73DF3E-6AA6-4ABF-B367-BE34C79D77FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA73DF3E-6AA6-4ABF-B367-BE34C79D77FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA73DF3E-6AA6-4ABF-B367-BE34C79D77FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA73DF3E-6AA6-4ABF-B367-BE34C79D77FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA73DF3E-6AA6-4ABF-B367-BE34C79D77FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {559E2786-9752-4F86-8FFC-A26ECA09A314}
+	EndGlobalSection
+EndGlobal
